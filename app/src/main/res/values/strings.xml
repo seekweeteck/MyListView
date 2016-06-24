@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My ListView</string>
+    <string-array name="brands">
+        <item>Acer</item>
+        <item>Asus</item>
+        <item>HP</item>
+        <item>Lenovo</item>
+        <item>Apple</item>
+    </string-array>
+</resources>
